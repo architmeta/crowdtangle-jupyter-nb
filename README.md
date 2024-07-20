@@ -24,8 +24,7 @@ This repository contains three Jupyter Notebooks which shows how easy it is crea
 
 - Install Pandas https://pypi.org/project/pandas/ 
 - Install Jupyter Notebook https://jupyter.org/install 
-- Install Matplotlib https://pypi.org/project/matplotlib/ 
-
-If you can start Pandas, all you have to do is change keywords to begin you data analysis. Ideal for researchers and journalists who are not familiar with coding (like me). 
+- Install Matplotlib https://pypi.org/project/matplotlib/
+- Download all the files in this repo and open the above-mentioned notebooks. 
 
 
