@@ -15,9 +15,9 @@ Meta is phasing out CrowdTangle on August 14, 2024 and replacing it with Meta Co
 
 This repository contains three Jupyter Notebooks which shows how easy it is created templates to analyze CrowdTangle CSVs. 
 
-ct-1db-2kw.ipynb : This notebook allows a user to import CrowdTangle(ct) database (db) in CSV format and compare the occrances of two unique keywords(kw). The user update keywords in code line 3. Upon running the codes, the user will get the data on number of occurances for each keyword, pie-chart represenation of this data, and list of page names that mention the keyword. 
-ct-2db-1kw.ipynb : As the name suggests, the notebook allows you to compare a keyword's occurance in two databases. The final output is in form of 2 CSVs that inlcude the results based on keyword selected. The keyword can be edited in code line 4. 
-ct-region-mediaoutlets.ipynb: This note book allows you to extract link to Facebook Pages from ct.db. I have used to extract a list Facebook Pages categorised as Media News Company, Newsagent Newsstand, News Personality, News Site, Newspaper, Political Candidate, Political Party, Politician, Political Organisation in Palestine Occupied Territories.
+- **ct-1db-2kw.ipynb**: This notebook allows a user to import CrowdTangle (CT) database (DB) in CSV format and compare the occurrences of two unique keywords (KW). The user can update the keywords in code line 3. Upon running the codes, the user will get the data on the number of occurrences for each keyword, a pie-chart representation of this data, and a list of page names that mention the keyword.
+- **ct-2db-1kw.ipynb**: As the name suggests, the notebook allows you to compare a keyword's occurrence in two databases. The final output is in the form of 2 CSVs that include the results based on the keyword selected. The keyword can be edited in code line 4.
+- **ct-region-mediaoutlets.ipynb**: This notebook allows you to extract links to Facebook Pages from the CT.DB. It has been used to extract a list of Facebook Pages categorized as Media News Company, Newsagent Newsstand, News Personality, News Site, Newspaper, Political Candidate, Political Party, Politician, and Political Organization in the Palestine Occupied Territories.
 
 
 ## Getting Started
